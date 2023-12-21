@@ -1,0 +1,10 @@
+{
+    "BIDSVersion": "1.9.0",
+    "Name": "rf_shimming_spinalcord",
+    "DatasetType": "raw",
+    "License": "This dataset is made available under CC0.",
+    "Authors": [
+        "Daniel Papp",
+	"Julien Cohen-Adad"
+    ]
+}
