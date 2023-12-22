@@ -1,0 +1,11 @@
+{
+    "BIDSVersion": "1.9.0",
+    "Name": "rf_shimming_spinalcord",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Daniel Papp",
+        "Julien Cohen-Adad"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004906.v2.0.0"
+}
