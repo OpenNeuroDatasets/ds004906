@@ -1,3 +1,5 @@
+2.1.1 2024-01-16
+  - Updated the title of this repository
 2.1.0 2024-01-16
   - Added cord segmentations with manual corrections (https://github.com/shimming-toolbox/rf-shimming-7t/issues/53)
   - Listed all co-authors
