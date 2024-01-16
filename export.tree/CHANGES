@@ -1,0 +1,12 @@
+2.1.1 2024-01-16
+  - Updated the title of this repository
+2.1.0 2024-01-16
+  - Added cord segmentations with manual corrections (https://github.com/shimming-toolbox/rf-shimming-7t/issues/53)
+  - Listed all co-authors
+2.0.1 2023-12-23
+  - Added intervertebral disc labeling (https://github.com/shimming-toolbox/rf-shimming-7t/issues/20)
+2.0.0 2023-12-22
+  - Fixed mixed TFL maps (https://github.com/shimming-toolbox/rf-shimming-7t/issues/17)
+  - Added MGH site (https://github.com/shimming-toolbox/rf-shimming-7t/issues/16)
+1.0.0 2023-12-21
+  - First release
