@@ -5,14 +5,14 @@
     "License": "CC0",
     "Authors": [
         "Daniel Papp",
-        "Julien Cohen-Adad",
         "Kyle M. Gilbert",
         "Gaspard Cereza",
-        "Alexandre D’Astous",
+        "Alexandre D'Astous",
         "Marcus Couch",
         "Pedram Yazdanbakhsh",
         "Robert L. Barry",
-        "Eva Alonso Ortiz"
+        "Eva Alonso Ortiz",
+        "Julien Cohen-Adad"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004906.v2.0.1"
+    "DatasetDOI": "doi:10.18112/openneuro.ds004906.v2.1.0"
 }
