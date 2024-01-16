@@ -1,6 +1,6 @@
 {
     "BIDSVersion": "1.9.0",
-    "Name": "rf_shimming_spinalcord",
+    "Name": "RF shimming in the cervical spinal cord at 7T",
     "DatasetType": "raw",
     "License": "CC0",
     "Authors": [
