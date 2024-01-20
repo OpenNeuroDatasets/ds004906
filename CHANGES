@@ -1,3 +1,6 @@
+2.4.0 2024-01-20
+  - Added manual CSF segmentation (https://github.com/shimming-toolbox/rf-shimming-7t/issues/67)
+  - Added manual SC segmentation (https://github.com/shimming-toolbox/rf-shimming-7t/issues/56)
 2.3.0 2024-01-19
   - - Replaced image by non-distortion corrected (https://github.com/shimming-toolbox/rf-shimming-7t/issues/58)
 2.2.0 2024-01-17
